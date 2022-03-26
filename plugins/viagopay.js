@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via GOPAY
-╠➥ *085730903853*
+╠➥ *6281380311018*
 ║- Chat Owner Terlebebih
 ║ Dahulu
 ╠═〘 Fitur 〙 ═
